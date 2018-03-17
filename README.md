@@ -12,4 +12,4 @@ To Start
 (Optional) Feel Free Also To Update The Email Template inside the Tempalate Folder "PLDCEmailTemplate.txt".
   - Change Message.
   - Enhance CSS/Styling as I'm not good with this things.
-  - Anything you know and thing that will improve the template. :)
+  - Anything you know and think that will improve the template. :)
